@@ -1,1 +1,2 @@
 # Laberinto_entrega_1
+La tarea consiste en construir un laberinto como el que se muestra en una figura. Esto se consigue creando una tupla con las coordenadas de las casillas donde hay muro. Después, creamos una lista de listas que será nuestro laberinto y todas las casillas empiezan en blanco. Más adelante, asignamos que en cada coordenada de nuestra lista muro ponga X. Y finalmente, imprimimos el laberinto para verlo.
